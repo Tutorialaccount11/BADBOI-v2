@@ -164,7 +164,14 @@ npm i -g forever && forever index.js && forever save && forever logs
 |  Developer |
 
   </div>
+  <div align="center">
   
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+|----|
+| [  Lord No Name](https://github.com/Anime-King01) |
+|  Co-Developer |
+
+  </div>
    
   </br> 
 
@@ -179,7 +186,7 @@ npm i -g forever && forever index.js && forever save && forever logs
   
    ## `Special Thanks To`
 
-* [`📕 Emperordagoat..!!`](https://github.com/Emperordagoat)
+* [`📕 Lord No Name..!!`](https://github.com/Anime-King01)
 * * [`📕 Cod3Uchiha`](https://github.com/Cod3Uchiha)
  
   * ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉
